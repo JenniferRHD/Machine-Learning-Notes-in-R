@@ -8,9 +8,9 @@ Compile my Machine Learning study notes here! =D
 * [Part 2 Model Accuracy](#part-2-model-accuracy)
 * [Part 3 Linear Regression](#part-3-linear-regression)
 * [Part 4 Logistic Regression](#part-4-logistic-regression)
-* [Part 5 ](#)
-* [Part 6 ](#)
-* [Part 7 ](#)
+* [Part 5 Linear Discriminant Analysis(LDA)](#part-5-LDA)
+* [Part 6 Quadratic Discriminant Analysis(QDA)](#part-6-QDA)
+* [Part 7 Resampling, Bootstrap, and Subset Selection](#)(#part-6-resampling-methods)
 * [Part 8 ](#)
 * [Part 9 ](#)
 * [Part 10 ](#)
@@ -19,6 +19,8 @@ Compile my Machine Learning study notes here! =D
 * [Acknowledgements](#acknowledgements)
 
 ## Part 1 About Machine Learning
+### Built With
+  * [R](https://www.r-project.org/)
 
 ## Part 2 Model Accuracy
 
@@ -26,3 +28,9 @@ Compile my Machine Learning study notes here! =D
 ## Part 3 Linear Regression
 
 ## Part 4 Logistic Regression
+
+## Part 5 LDA
+
+## Part 6 QDA
+
+
