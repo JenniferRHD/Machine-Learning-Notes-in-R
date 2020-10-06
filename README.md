@@ -17,3 +17,5 @@ Compile my Machine Learning study notes here! =D
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
+
+## Part 1 About Machine Learning
