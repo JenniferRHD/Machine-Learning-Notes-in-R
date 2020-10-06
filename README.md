@@ -6,8 +6,8 @@ Compile my Machine Learning study notes here! =D
   * [Built With](#built-with)
 * [Part 1 About Machine Learning](#part-1-about-machine-learning)
 * [Part 2 Model Accuracy](#part-2-model-accuracy)
-* [Part 3 KNN](#part-3-KNN)
-* [Part 4 Linear Regression Model](#part-4-linear-regression-model)
+* [Part 3 Linear Regression](#part-3-linear-regression)
+* [Part 4 Logistic Regression](#part-4-logistic-regression)
 * [Part 5 ](#)
 * [Part 6 ](#)
 * [Part 7 ](#)
@@ -19,3 +19,10 @@ Compile my Machine Learning study notes here! =D
 * [Acknowledgements](#acknowledgements)
 
 ## Part 1 About Machine Learning
+
+## Part 2 Model Accuracy
+
+
+## Part 3 Linear Regression
+
+## Part 4 Logistic Regression
