@@ -10,10 +10,10 @@ Compile my Machine Learning study notes here! =D
 * [Part 4 Logistic Regression](#part-4-logistic-regression)
 * [Part 5 Linear Discriminant Analysis(LDA)](#part-5-LDA)
 * [Part 6 Quadratic Discriminant Analysis(QDA)](#part-6-QDA)
-* [Part 7 Resampling, Bootstrap, and Subset Selection](#part-7-resampling-methods)
-* [Part 8 ](#)
-* [Part 9 ](#)
-* [Part 10 ](#)
+* [Part 7 Resampling Methods](#part-7-resampling-methods)
+* [Part 8 Improving on Least Squares Estimates](#part-8-improving-on-least squares-estimates)
+* [Part 9 Trees](#part-9-trees)
+* [Part 10 Bagging](#part-10-bagging)
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
@@ -29,11 +29,14 @@ Compile my Machine Learning study notes here! =D
 
 ## Part 4 Logistic Regression
 
-## Part 5 Linear Discriminant Analysis(LDA)
+## Part 5 LDA
 
 ## Part 6 QDA
 
-
 ## Part 7 Resampling Methods
 
+## Part 8 Improving on Least Squares Estimates
 
+## Part 9 Trees
+
+## Part 10 Bagging
