@@ -29,7 +29,7 @@ Compile my Machine Learning study notes here! =D
 
 ## Part 4 Logistic Regression
 
-## Part 5 LDA
+## Part 5 Linear Discriminant Analysis(LDA)
 
 ## Part 6 QDA
 
