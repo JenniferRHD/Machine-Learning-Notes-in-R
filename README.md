@@ -18,7 +18,7 @@ Compile my Machine Learning study notes here! =D
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
-## Gettin Started
+## Getting Started
 ### Built With
   * [R](https://www.r-project.org/)
 
