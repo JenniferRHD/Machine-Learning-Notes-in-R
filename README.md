@@ -52,5 +52,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Jennifer Ruohua Ding - [@Ruohua Ding](https://www.linkedin.com/in/ruohua-ding/) - rhding97Atgmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/JenniferRHD/Machine-Learning-Notes-in-R](https://github.com/JenniferRHD/Machine-Learning-Notes-in-R)
 
