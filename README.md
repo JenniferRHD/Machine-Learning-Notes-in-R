@@ -18,9 +18,11 @@ Compile my Machine Learning study notes here! =D
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
-## Part 1 About Machine Learning
+## Gettin Started
 ### Built With
   * [R](https://www.r-project.org/)
+
+## Part 1 About Machine Learning
 
 ## Part 2 Model Accuracy
 
