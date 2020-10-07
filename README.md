@@ -42,3 +42,15 @@ Compile my Machine Learning study notes here! =D
 ## Part 9 Trees
 
 ## Part 10 Bagging
+
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+
+Jennifer Ruohua Ding - [@Ruohua Ding](https://www.linkedin.com/in/ruohua-ding/) - rhding97Atgmail.com
+
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
