@@ -50,8 +50,6 @@ Compile my Machine Learning study notes here! =D
 
 ## Part 10 Bagging
 
-## Part 10 Bagging
-
 ## Part 11 Random Forests
 
 ## Part 12 Boosted Trees
