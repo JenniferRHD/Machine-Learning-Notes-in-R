@@ -14,6 +14,14 @@ Compile my Machine Learning study notes here! =D
 * [Part 8 Improving on Least Squares Estimates](#part-8-improving-on-least-squares-estimates)
 * [Part 9 Trees](#part-9-trees)
 * [Part 10 Bagging](#part-10-bagging)
+* [Part 11 Random Forests](#part-11-random-forests)
+* [Part 12 Boosted Trees](#part-12-boosted-trees)
+* [Part 13 Support Vector Machine(SVM)](#part-13-SVM)
+* [Part 14 Neural Network](#part-14-neural-network)
+* [Part 15 K-Means Clustering](#part-15-K-means-clustering)
+* [Part 16 Hierarchical Clustering](#part-16-hierarchical-clustering)
+* [Part 17 Principal Components Analysis(PCA)](#part-17-PCA)
+
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
@@ -25,7 +33,6 @@ Compile my Machine Learning study notes here! =D
 ## Part 1 About Machine Learning
 
 ## Part 2 Model Accuracy
-
 
 ## Part 3 Linear Regression
 
@@ -43,6 +50,21 @@ Compile my Machine Learning study notes here! =D
 
 ## Part 10 Bagging
 
+## Part 10 Bagging
+
+## Part 11 Random Forests
+
+## Part 12 Boosted Trees
+
+## Part 13 SVM
+
+## Part 14 Neural Network
+
+## Part 15 K-Means Clustering
+
+## Part 16 Hierarchical Clustering
+
+## Part 17 PCA
 
 ## License
 
